@@ -2,7 +2,7 @@
      EXPORT __main
 	 ENTRY 
 __main  FUNCTION		         
-        MOV r2, #0x70
+                MOV r2, #0x70
 		MOV r7, #0x70
 		MOV r4, #0x20
 		CMP r2, r7
